@@ -51,11 +51,11 @@ xampp-control.exe
 xampp-control.ini
 xampp-control.log
 
+/mysql/data/bd_demo
 /mysql/data/ib_logfile0
 /mysql/data/ibdata1
 /mysql/data/mysql.pid
 /mysql/data/mysql_error.log
 /mysql/data/phpmyadmin/pma_userconfig.ibd
 
-/mysql/data/bd_demo
 !/.gitignore
